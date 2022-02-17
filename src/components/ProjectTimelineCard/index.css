@@ -1,0 +1,21 @@
+.project-image {
+  width: 100%;
+}
+
+.project-title {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+}
+
+.project-description {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.project-link {
+  text-decoration: none;
+  color: blue;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
